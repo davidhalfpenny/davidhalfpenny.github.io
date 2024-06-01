@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: David Halfpenny
+title: DH
 logo: # You can add own logo. For example '/images/logo.png'.
 description: David Halfpenny's Personal Site
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: DH
+  name: David Halfpenny
   avatar: '/images/15.jpg'
 
 
