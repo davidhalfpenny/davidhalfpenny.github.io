@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: DH
+title: David Halfpenny
 logo: # You can add own logo. For example '/images/logo.png'.
 description: David Halfpenny's Personal Site
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -17,7 +17,7 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: David Halfpenny
+  title: David's Things
   description: Blah, blah, blah
   image: #'/images/01.jpg'
 
