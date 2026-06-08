@@ -5,7 +5,7 @@ permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/splash/srikant-sahoo-r2L6vCKaVRk-unsplash.jpg"
+  overlay_image: /assets/images/srikant-sahoo-r2L6vCKaVRk-unsplash.jpg"
   actions:
     - label: "Download"
       url: "#test-link"
