@@ -16,9 +16,7 @@
 title: David Halfpenny
 email: david@davidhalfpenny.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  David Halfpenny's personal homepage.
 twitter_username: DaveHComedyAU
 github_username: davidhalfpenny
 minimal_mistakes_skin: dark
@@ -62,30 +60,30 @@ author:
   avatar : "/assets/images/Headshot.jpg"
   bio    : "Searching for meaning. Settling for punchlines."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
+    - label: "X"
+      icon: "fab fa-brands fa-x-twitter"
+      url: "https://x.com/DaveHComedyAU"
+    #- label: "GitHub"
+    # icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/davehcomedyau/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "X"
+      icon: "fab fa-brands fa-x-twitter"
+      url: "https://x.com/DaveHComedyAU"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/davehcomedyau/"
 
 defaults:
   # _posts
